@@ -46,17 +46,9 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+  enable: false
 prismjs:
   enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ''
 index_generator:
   path: ''
   per_page: 10
@@ -75,6 +67,6 @@ exclude: null
 ignore: null
 plugins:
   - hexo-generator-cname
-theme: landscape
+theme: aomori
 deploy:
   type: ''
