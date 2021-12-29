@@ -9,4 +9,7 @@
 [submodule "butterfly"]
 	path = themes/butterfly
 	url = https://github.com/jerryc127/hexo-theme-butterfly
-
+	
+[submodule "butterfly"]
+	path = themes/tranquilpeak
+	url = https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak
