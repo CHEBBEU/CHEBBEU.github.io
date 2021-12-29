@@ -10,6 +10,6 @@
 	path = themes/butterfly
 	url = https://github.com/jerryc127/hexo-theme-butterfly
 	
-[submodule "butterfly"]
+[submodule "tranquilpeak"]
 	path = themes/tranquilpeak
 	url = https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak
