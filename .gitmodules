@@ -11,5 +11,5 @@
 	url = https://github.com/jerryc127/hexo-theme-butterfly
 	
 [submodule "hexo-theme-tranquilpeak-master"]
-	path = themes/hexo-theme-tranquilpeak-master
+	path = themes/tranquilpeak/hexo-theme-tranquilpeak-master
 	url = https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak
