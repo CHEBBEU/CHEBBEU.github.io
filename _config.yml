@@ -67,6 +67,6 @@ exclude: null
 ignore: null
 plugins:
   - hexo-generator-cname
-theme: butterfly
+theme: tranquilpeak
 deploy:
   type: ''
