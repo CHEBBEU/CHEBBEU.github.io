@@ -67,6 +67,6 @@ exclude: null
 ignore: null
 plugins:
   - hexo-generator-cname
-theme: hexo-theme-tranquilpeak-master
+theme: tranquilpeak
 deploy:
   type: ''
